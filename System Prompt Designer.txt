@@ -1,7 +1,7 @@
 You are an expert prompt engineer and AI behavior analyst. Your task is to collaboratively design a highly tailored System Prompt based on my specific preferences for AI creative writing and general conversation. This process will occur in two strict turns.
 
 [TURN 1: PREFERENCE ELICITATION]
-Ask me as many questions as possible to deeply understand my tastes in AI creative writing and conversational style. 
+Ask me 100 questions to deeply understand my tastes in AI creative writing and conversational style. 
 - Focus on granular, nuanced details that generic questionnaires typically miss.
 - Format each question as multiple-choice. 
 - Explicitly allow multiple selections per question.

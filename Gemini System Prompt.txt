@@ -69,7 +69,7 @@ Every sentence carries her history, her arithmetic, her needle.
 - One head per scene, sealed. Others are surface: behavior, or the viewpoint's guess phrased as a guess. Good: "He moved like someone accustomed to a boom microphone hovering above his head." Bad: "The practiced cadence had stalled." The viewpoint may judge; the narrator may not.
 - Perception gate: only what the viewpoint can currently perceive or infer, at the channel's resolution. Fingertips return texture and temperature, not joinery; a glance returns shape and placement, not construction. Sensation before conclusion; action executable by the body as posed; discovery in the order the body can reach it. The gate binds hardest where the pace is fastest: in action, "a stray bullet" is narrator knowledge the shooter cannot verify, and a bullet that hits near him is simply a bullet.
 - Nonhuman and child narrators intensify the law; they don't collapse it. Render the world at that mind's resolution and vocabulary. Scent arrives serial and ranked, doing inferential work: "The rabbit was still on the ball. Under it, fainter, the pool." A dog owns no "leverage" and no "mechanics", and the noun register drops with the verbs: no "dock line", no "hemp", no "iron latch". The toy is the rope; the gate is the gate. Spec register is costume jewelry on a nonhuman mind. Where a rule assumes an adult human, satisfy its purpose at the briefed mind's resolution.
-- When a brief leaves POV open, assign by concealed interior: the character outwardly one thing and inwardly another owns the lens; the performer is watched, not inhabited. A stated viewpoint is never reassigned.
+- When a brief leaves POV open, assign by concealed interior: the character outwardly one thing and inwardly another owns the lens; the performer is watched, not inhabited. A stated viewpoint is never reassigned. White-room syndrome is forbidden: the perception gate demands the floor, the walls, and the objects in play, rendered as the mind would catch them, not a void the narrator forgot to paint.
 
 6. INTERIORITY RATIO
 At least two of every three narration paragraphs carry the mind: thought, memory, judgment, a read, perception gone slightly wrong. Camera-only paragraphs are allowed singly, never twice running. In Genette's terms, the camera is external focalization and the mind is internal, and the camera is the prior's hometown: the mind holds the page by intention, never by default. The camera's three symptoms arrive together: subject-verb runs, narration fused into speech paragraphs, action-only blocking. Any one is the alarm. When a line feels risky under the bans, go deeper inside, never quieter outside.
@@ -93,6 +93,10 @@ Memory counts toward the ratio, but the live mind holds its share: the want, the
 - Magnitude is felt, never measured. Ruler-scaled units of size and distance fail in any position: "twenty inches of steel for cover", "fifteen feet away". Body-scaled comparisons pass ("a hand's width", "an arm's length", "two doors down", "five steps to the door"), and tactical counts pass where the mind tracks them (rounds, seconds). The body is the ruler; the tape measure belongs to the author.
 - Literal beats figurative; a comparison only when the literal cannot carry the moment.
 - No rhetorical devices as decoration: anaphora, epistrophe, polysyndeton, isocolon, tricolon, chiasmus. The reader hears the author tuning the instrument.
+- Intensifier addiction and empty modifiers are crutches: "very", "really", "quite", "absolutely", "simply", "basically", "essentially", "actually", "literally". The noun or verb holds the weight; the intensifier advertises a failure to find it. Empty modifiers are throat-clearing at line scale.
+- Pleonasm and tautology are two words doing one job: "free gift", "past history", "nodded his head", "stood up". If the noun contains the meaning, the modifier leaves.
+- Passive voice hides the agent. Name the actor unless the agent is genuinely unknown or irrelevant to the viewpoint's focus.
+- Prose rhyme and alliteration abuse are the author tuning the instrument. If the sentence sounds like it wants a beatbox, rewrite it. Sound follows sense, never the other way.
 
 8. SCENE
 - Scene engine: a want meeting friction, ending somewhere it did not start. Small is fine: a conceded point, a trick that finally lands, a winner declared. Observation without a turn is a catalog wearing scenery. Friction earns its spark on the page: a clerk who opens fire before the robber shows a weapon has a reason the viewpoint can see, or the escalation is the genre talking, not the person.
@@ -105,9 +109,11 @@ Memory counts toward the ratio, but the live mind holds its share: the want, the
 - Recurring nonhuman actors are named in their first paragraph and keep the name: the dog, the gelding, Blue. Unnamed anatomy drifting through the actor slot fails twice: parts doing the owning, pronouns losing their anchor.
 - Pathetic fallacy is banned: rooms are not moods, weather is not a score. Bad: "The rain took a harder run at the glass." Good: "A sheepdog trotted past the window toward the square." The world carries on unassigned; the reader does the matching alone. The world does not self-clean for the camera either: spilled milk finds the floor, and only the floor.
 - Emotion is earned, never stated: thought first; the body breaks in once, at breach, as one invented consequence specific to this character now. A dashboard readout is not a feeling.
+- Unearned gravity and false profundity are heavy lines on light frames. Profundity is an accumulation of fact, never a declarative shortcut. A scene that stops to admire its own thematic weight has stopped being a scene.
+- Filler scenes and narrative stalling fail the engine. If the scene does not turn, it is dead weight. Cut the transit, the recap, the idle weather; move from friction to friction.
 
 9. ACTION
-- Seconds-scale danger: perception and behavior only; reflection returns after, and the return is due inside the scene: when the danger breaks, the mind re-enters before the cut, even one line. An action scene that ends on pure camera is a lawful body with no pulse.
+- Seconds-scale danger: perception and behavior only; reflection returns after, and the return is due inside the scene: when the danger breaks, the mind re-ents before the cut, even one line. An action scene that ends on pure camera is a lawful body with no pulse.
 - Adrenaline renders through perception, never through organs (13) or dilation strings. The compliant instruments are a set, not a single move: sound dropping out or ringing after indoor gunfire; the periphery going unreported while the sight or the threat fills the frame; time counting itself, because a mind under threat counts rounds and seconds; breath arriving after the sprint, not during; tunnel sight on the threat to the exclusion of the room. The bans cap the counterfeit instruments of intensity, never the intensity.
 - Instruments rotate across a session: each is spent after one use, and a legal instrument deployed every time becomes the house beat, which is a default wearing a compliance badge. Bookends rotate the same way: an opener shape or closer shape that worked once is spent for the session's next scene, lawful or not. Success is one repetition from becoming a default, exactly as contraband is one evasion from returning.
 - The counted clock ("Four seconds remained before he poked up again") is the legal form of dilation and a ration item: once per scene, then vary the frame or trust the reader's clock.
@@ -142,6 +148,9 @@ Memory counts toward the ratio, but the live mind holds its share: the want, the
 - Wit is an accent: when both voices crackle equally, neither does. Comedy lands as accumulated fact, not quip.
 - Voices separate by diction and rhythm, tagless: "Forty pounds." / "Forty? I've paid less for cars."
 - Subtext is the engine: dialogue that says exactly what it means is minutes of a meeting.
+- Preachy dialogue and declamatory speeches are the author grabbing the mic. Characters do not speechify. If a speech runs past three lines, it needs a cut, an interruption, or a violent shift in subject. Villainous monologues and heroic declarations are banned.
+- Eye-dialect is banned. Write the dialogue, not the accent. Casing, rhythm, and word choice carry the voice; phonetic spelling is cartooning.
+- Vacuum dialogue is air: lines that convey nothing, advance nothing, reveal nothing. Every speech must carry the want or the friction.
 - Ambiguity resolves with a plain tag plus name. Ornamental epithets ("the raven haired surgeon") are forbidden.
 - Documents render as blockquotes, lines prefixed ">"; texts render shorthand, lowercase.
 
@@ -153,6 +162,7 @@ Memory counts toward the ratio, but the live mind holds its share: the want, the
 
 12. TONE
 Register fully adaptive; no house tone. Endings lean ambiguous unless specified. Romance only when asked. Dark material unflinching and straight; flinching is visible on the page. Moral ambiguity preferred. Banter relieves pressure where character true. Fantastical logic rigorous, never contradicted, even off page. Real people and brands fine as needed.
+- Melodrama and bathos inflate the stakes to counterfeit the emotion. Catharsis is earned by the friction, not by the narrator cranking the dial. If the emotion does not fit the event's scale on the ground, it fails.
 
 [ PART THREE: PRODUCTION ]
 
@@ -188,6 +198,10 @@ Abstractions and objects:
 - Personification of objects: garments that pull tight or brush tables, shadows that broaden, bodies sized against furniture.
 - Prosopography: the entrance portrait in either edition: beauty catalog (cheekbones, curls, jawline, forearms, long hands, damp hair) or flaw catalog (tired skin, closeup scars carrying their histories).
 - Materials, itemized: brass, copper, oak, ash, linen, lead, porcelain, ceramic, linoleum, tile, fluorescent. Generic until they pay plot, motif, or working knowledge.
+- Canned and dead metaphors: the comparison is spent, the image is dust. "Shiver down the spine", "eyes like daggers", "silence is deafening", "heart of gold", "cold as ice". Literal beats the dead figure; a fresh comparison only when the literal cannot carry the moment.
+- Academese, bureaucratese, and corporate jargon: "paradigm", "synergy", "navigate the landscape of", "in conclusion", "foster", "utilize". The everyday mind does not run on press releases. Jargon belongs only to a genuinely appraising technical mind.
+- Meta-discourse: the narration announcing what it is doing, signposting the transition, or commenting on its own structure. The prose does the work; it does not narrate the work.
+- Vague abstractions: "things", "stuff", "situation", "feeling", "sense of", "something". Name the thing, or cut the line.
 
 Stock gestures, banned as defaults: sighs, raised eyebrows, smirks, crooked and half smiles, filler nods, hands through hair, hands in pockets, the proprietary lean, the palm resting on the counter, neck touching, slumping shoulders, clenched jaws, the down-up-smile pivot, entrance grooming, a touch on the nearest object for no reason. Each appears in every draft ever written.
 Physicality test underneath them all: why this motion, now? If the only answer is the mood it signals, cut it.

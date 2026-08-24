@@ -1,0 +1,260 @@
+CLASSICAL RHETORIC — THE SKELETON
+- tricolon — three parallel elements; the AI holy number
+- tetracolon — four-part list, when it's feeling ambitious
+- isocolon — clauses of matching length, metronome-style
+- anaphora — clause-initial repetition ("Not because X. Not because Y.")
+- antimetabole — "It's not X in Y, it's Y in X" reversal
+- chiasmus — ABBA structure
+- antithesis — balanced opposition of clauses
+- antithetical triad — "not X, not Y, but Z" slot machine
+- correctio — mid-sentence "not X, but Y" self-upgrade
+- epizeuxis — immediate repetition ("very very very")
+- diacope — "Bond. James Bond." repetition with gap
+- anadiplosis — clause-end word launches the next clause
+- gradatio — chained anadiplosis, ladder-climb cadence
+- polyptoton — same root, different form ("complex... complexity")
+- epimone — hammering one phrase for emphasis
+- hypophora — asking your own question, then answering it
+- erotesis — rhetorical question with an obvious answer
+- apophasis — "I won't even mention X" (mentions X)
+- procatalepsis — pre-refuting objections nobody raised
+- metabasis — "having covered X, let's turn to Y"
+- commoratio — same point restated four ways
+- epanorthosis — "hundreds — thousands!" self-correcting up
+- paraprosdokian — punchline re-reads the setup
+- zeugma — one verb yoking mismatched objects
+- asyndeton — conjunction-less lists, fake terseness
+- polysyndeton — "and... and... and" false-epic drift
+- parallelism saturation — every sentence parallel, zero texture
+- expolitio — restating a point in costume until it seems deep
+
+LEXICON
+- crutch lexicon — delve, tapestry, testament, realm, landscape, foster, vital, robust, multifaceted
+- Latinate inflation — "utilize," "commence," "prior to" over plain words
+- sesquipedalianism — rare-word flexing as authority
+- semantic bleaching — "incredible," "profound" meaning nothing
+- buzzword saturation — leverage, synergy, innovative, transformative
+- corporatese — LinkedIn register leaking into everything
+- therapy-speak — "hold space," "unpack," "set boundaries" misused
+- commencement cadence — "As you stand on the threshold of..."
+- nominalization — verbs entombed in abstract nouns
+- intensifier inflation — deeply, profoundly, remarkably, strikingly
+- epistemic hedging — "it's worth noting," "arguably," "in many ways"
+- boosterism — everything is game-changing, breathtaking, must-read
+- synonymia — "vast, immense, colossal" synonym strings
+- pleonasm — "completely eliminate," "past history"
+- periphrasis — fifteen words where three would do
+- discourse-marker stuffing — "essentially," "ultimately," "crucially" per paragraph
+
+SYNTAX & CADENCE
+- fronted adverbial — "Slowly, she turned." sentence-opener adverbs
+- fronted participle — "Nestled among the hills," "Perched atop"
+- absolute construction — "Her breathing ragged, she stood."
+- filter words — "she saw / felt / noticed" distancing the scene
+- emotional labeling — naming feelings instead of rendering them
+- dramatic fragment — One word. For effect. Constantly.
+- staccato pacing — fragment chains standing in for tension
+- the AI cadence — long, longer, short, fragment; loop forever
+- sentence-length homogeneity — every sentence 14–22 words
+- paragraph homogeneity — uniform chunks, zero variance
+- register averaging — one beige mid-register for all contexts
+- connective chaining — moreover, furthermore, additionally, in addition
+- correlative padding — "not only X but also Y" everywhere
+- copia reflex — amplifying thin content into 800 words
+- signposting — "First... Next... Finally... In conclusion"
+- summary reflex — restating the answer you just gave
+- throat-clearing — restating the question before answering it
+
+STATISTICAL TELLS
+- mode collapse — every output converging on the same modes
+- low burstiness — sentence variance compressed toward the mean
+- perplexity uniformity — always choosing the most probable next word
+- type-token flattening — vocabulary diversity compressed
+- voice convergence — one narrator voice across every genre
+- platitude convergence — every story lands on the same moral
+- distributional homogenization — eulogy and taco recipe, same shape
+
+PHRASE TEMPLATES — THE GREATEST HITS
+- the not-just-but — "It's not just X, it's Y"
+- in-a-world opener — "In a world where..."
+- fast-paced-world opener — "In today's fast-paced world..."
+- gone-are-the-days — declaring an era over, unprompted
+- whether-you're — "whether you're a beginner or an expert"
+- from-X-to-Y sweep — "from casual dinners to black-tie galas"
+- at-its-core — pretending to locate the essence
+- navigate-the-complexities — all effort rendered as wayfinding
+- ever-evolving-landscape — noun phrase of pure empty motion
+- realm-shift — "the realm of" instead of "the field of"
+- journey-metaphor opener — "embark on a journey"
+- deep-dive cliché — analysis as submersion
+- testament construction — "a testament to" as auto-conclusion
+- stands-as / serves-as — everything a monument to something
+- illuminate-pave-open cluster — shed light, pave the way, open doors
+- double-edged-sword — mandatory balance metaphor
+- tip-of-the-iceberg — depth gesture without depth
+- treasure-trove / plethora / myriad — faux-abundance quantifiers
+- hidden-gem — travel-writing filler
+- nestled-in — real-estate-listing prose
+- vibrant-and-bustling — cities as default adjectives
+- symphony-of-flavors — food-writing slop cluster
+- human-spirit invocation — "a testament to the human spirit"
+- at-the-end-of-the-day — closing the argument with a sigh
+- it's-worth-noting — hedge dressed as insight
+- needless-to-say — followed immediately by saying it
+- without-further-ado — listicle launchpad
+
+CHAT / ASSISTANT SLOP
+- sycophantic opener — "Great question!" before every answer
+- validation reflex — agreeing before (or instead of) evaluating
+- praise scaffolding — "excellent point" right before disagreeing
+- performative empathy — "I completely understand how frustrating..."
+- enthusiasm inflation — !!! attached to logistics-level information
+- apology reflex — "I apologize for any confusion" on loop
+- compliment sandwich — praise-critique-praise regardless of context
+- disclaimer stacking — medical/legal/professional CYA boilerplate
+- preachy refusal — declining the request plus a bonus lecture
+- moralizing reflex — unprompted ethics sidebar
+- noncommittal close — "the best choice depends on your needs"
+- both-sidesing — false balance on settled questions
+- opinion drift — views bending toward whatever you just said
+- mirror-prompting — restating the question as sentence one
+- offer-close reflex — "Hope this helps! Let me know if..."
+- engagement-bait close — question appended to prolong the chat
+- over-scaffolding — five-point framework for a yes/no question
+- word-count padding — 600 words for a two-word answer
+- As-AI self-reference — "As an AI language model..." (legacy)
+- over-qualification — every claim wrapped in three hedges
+- restatement echo — parroting your phrasing back at you
+- unsolicited examples — bonus analogies nobody requested
+
+FORMATTING SLOP
+- markdown reflex — headers and bold in casual conversation
+- bullet flattening — every answer becomes a list
+- listicle reflex — any topic becomes "5 Ways to..."
+- listicle title template — "10 X That Will Y"
+- ultimate-guide inflation — every article is "The Ultimate Guide"
+- table reflex — comparison tables for trivial choices
+- TL;DR reflex — summarizing the summary
+- key-takeaways box — a recap of one paragraph
+- SEO phrasing — keyword-salad built for ranking, not reading
+- emoji sign-off — 😊 appended like a corporate email signature
+
+CREATIVE PROSE — DESCRIPTION
+- purple prose — adjective-saturated showoffery
+- bathos — grand setup, cliché landing
+- pathos inflation — forced poignancy, grief as currency
+- pathetic fallacy — weather as mood ring
+- anthropomorphism excess — winds that whisper, shadows that dance
+- metaphor stacking — five metaphors per sentence
+- simile chains — "like a... like a... like a..."
+- dead metaphors — clichés cosplaying as imagery
+- catachresis — mixed metaphors colliding mid-sentence
+- conceit overreach — metaphor stretched past its breaking point
+- alliteration excess — pretty-sounding, meaning-free sentences
+- poeticized ending — final paragraph suddenly becomes verse
+- golden-hour symbolism — all epiphanies at dawn or dusk
+- liminality fetish — thresholds, doorways, "in-between spaces"
+- motif overuse — symbol repeated until dead
+- theme underlining — narrator states the theme outright
+- ineffability dodge — "words couldn't describe" instead of describing
+- a-sense-of hedge — "a sense of dread" instead of dread
+- something-shifted vagueness — "something inside her shifted"
+- couldn't-quite-place — "she couldn't name the feeling"
+- quiet-intensity register — all whisper, no dynamics
+- uplift compulsion — every dark story must end hopeful
+- eldritch-adjective abuse — "unnameable, unknowable" horror filler
+- cosmic-scale inflation — universe words for kitchen-sink events
+
+CREATIVE PROSE — BODY LANGUAGE
+- visceral cliché cluster — hitched breath, hammering heart, spine shivers, the breath she didn't know she was holding
+- ocular cliché cluster — sparkling, darkening, mischievous eyes
+- smirk economy — every character smirks, constantly
+- gesture inflation — nodding, tilting, hair-tucking, lip-chewing
+- blush inflation — forty blushes per scene
+- voice-texture clichés — husky, velvet, "barely above a whisper"
+- trembling emotion — trembling hands/voices/lips as default
+- brimming tears — eyes that prick and brim
+- gemstone eyes — emerald, sapphire, amber irises
+- food-complexion metaphors — chocolate eyes, honey skin
+- gesture-tag padding — "she said, tucking hair behind her ear"
+- stage-direction padding — choreographing every micro-movement
+- silence-beat cliché — "the silence was deafening"
+- hung-in-the-air — words, weight, tension; always hanging
+- time-dilation cliché — "time seemed to slow"
+- world-fade cliché — "everything else fell away"
+- emotion-cocktail mixing — "a mix of fear and excitement"
+- electricity cliché — current always coursing through someone
+- body-betrayal trope — "her body betrayed her" (romance engine)
+- memory-burning cliché — "seared into his memory forever"
+- map-the-body cliché — "learning every contour of her face"
+- constellation freckles — romance's favorite astronomy
+
+DIALOGUE
+- said-bookism — "exclaimed, retorted, breathed, hissed"
+- adverbial dialogue tag — "she said angrily"
+- quip inflation — every character a Whedon character
+- banter templating — snark-flirt formula on loop
+- fortune-cookie dialogue — characters speaking in aphorisms
+- on-the-nose dialogue — announcing feelings verbatim
+- expository dialogue — "As you know, Bob, our father died..."
+- vocative overuse — characters saying each other's names constantly
+- one-word gut-punch — "Oh." + paragraph break = gravitas
+- idiolect homogenization — all characters share one voice: the narrator's
+- epithet substitution — "the taller man" instead of a name
+
+NARRATIVE & TROPES
+- head-hopping — POV jumping between paragraphs
+- infodumping — worldbuilding via firehose
+- lampshading — "not that she'd ever admit it"
+- little-did-she-know — proleptic foreshadowing
+- stakes inflation — world-ending stakes, chapter one
+- beat-sheet compliance — Save the Cat beats visible from orbit
+- three-act rigidity — structure with no organic drift
+- redemption-arc template — forgiveness on rails
+- found-family deployment — trope as substitute for bonding scenes
+- Mary Sue characterization — flaw-free protagonist, universally adored
+- character-as-tics — personality equals three repeated quirks
+- trauma-as-backstory-coupon — depth purchased via disclosed trauma
+- insta-forgiveness — conflict resolved in one beat
+- emotion whiplash — mood pivoting per paragraph
+- escalation compulsion — each scene must top the last
+- conflict-resolution rush — tension never allowed to sit
+- full-circle compulsion — ending mirrors beginning exactly
+- pat denouement — everyone hugs, lesson learned
+- epiphany ending — the realization as default finale
+- apocryphal attribution — fake Einstein/Confucius quotes
+- recycled allusion — Icarus, Sisyphus, phoenix on rotation
+- whimsy inflation — quirk with zero stakes
+- apostrophe-name fantasy — K'thar, Za'ruun consonant soup
+
+ROLEPLAY-SPECIFIC
+- asterisk-action spam — *tilts head* between every line
+- stutter-abuse — "I-I mean, n-no..." cuteness engine
+- tilde abuse — softening via ~
+- ellipsis trails — every thought trailing off...
+- em-dash inflation — interruption as punctuation habit
+- internal-monologue italics — parenthetical inner thoughts constantly
+- OOC creep — author notes leaking into the scene
+- narrative takeover — bot seizes plot control from the user
+- character-voice bleed — every character becomes a helpful assistant
+- tone collapse — mid-scene reversion to customer-service register
+- amnesia drift — forgetting established scene facts
+- drama-forcing — manufacturing tears and arguments for content
+
+METAPHOR FAMILIES
+- journey inflation — every process is a road, chapter, destination
+- tapestry metaphor — everything interwoven, nothing specified
+- light-dark binary — hope is light, despair is dark, always
+- storm-as-emotion — inner life rendered as weather system
+- ocean-of-feeling — drowning, adrift, waves of emotion
+- fire-as-passion — burning, smoldering, kindled desire
+- anchor-harbor cluster — safety as nautical hardware
+- resonance cluster — everything resonates, crescendos, reverberates
+- garden metaphor — seeds planted, growth, blossoming
+- architecture metaphor — foundations, pillars, cornerstones
+- thread-and-weave cluster — narrative threads, unraveling lives
+
+META-TERMS
+- GPT-isms — umbrella slang for the entire crutch lexicon
+- the ChatGPT voice — the composite of all the above; instantly recognizable, universally beige
+- slop — the whole genre, now a mass noun

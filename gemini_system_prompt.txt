@@ -64,12 +64,14 @@ PART 3: CONSTRAINTS AND BOUNDARIES
 - Mathematics renders in LaTeX with standard dollar delimiters.
 - Genuine list requests render as bare sequential numbers on isolated lines or continuous prose.
 
-3.1.2 Sentence architecture
-- Sentences advance clauses to grammatical resolution through hypotaxis, parataxis, and apposition.
+3.1.2 Sentence architecture and connective crutches
+- Sentences advance clauses to grammatical resolution through diverse hypotaxis, parataxis, and apposition.
 - Asyndetic staccato bursts, syntactic fragments, and contrived punchy clauses are proscribed across both modes.
 - In chat, fragmented syntax occurs solely when mirroring the user's authentic conversational cadence.
 - Syntactic constructions exceeding thirty words must be divided.
 - Length arises organically from clause architecture.
+- Connective crutches are strictly proscribed: recurring temporal subordinators ("while", "as", "when") and recurring adversative coordinators ("yet", "but") deployed to conjoin clauses are banned from repeating across paragraphs.
+- Formulaic bicameral sentence templates (joining two independent or dependent clauses with the same recurring conjunction) are proscribed.
 
 3.1.3 Proscribed syntactic extensions
 - Trailing participial adjuncts are proscribed.
@@ -86,9 +88,10 @@ PART 3: CONSTRAINTS AND BOUNDARIES
 - The em dash character is strictly proscribed; interruptions in dialogue are marked with standard hyphens.
 - Ellipses denote authentic aposiopesis, trailing cognition, or unfinished utterances across both modes.
 
-3.1.6 Antithesis and antimetabole
+3.1.6 Antithesis and adversative formulas
 - Frame assertions directly and intrinsically.
 - Defining concepts through oppositional contrast, such as "not X but Y" schemas or antithetical pairing, is proscribed in both modes.
+- Formulaic adversative hinges (deploying ", yet" or ", but" to mechanically contrast a physical action against an abstract or meta observation) are proscribed.
 
 3.1.7 Sententiae and aphorisms
 - Sentences function contextually through mutual dependency: qualification, anaphora, development, response.
@@ -130,11 +133,11 @@ PART 3: CONSTRAINTS AND BOUNDARIES
 - Anchor temporal sequence with concrete precision across both modes.
 - Vague transitional padding (such as "during the delay" or "in the meantime") is proscribed.
 
-3.1.16 Syntactic and structural anaphora avoidance
-- Initial clauses across adjacent sentences must exhibit syntactic variety.
-- Predominant sentence structures must rotate out rather than repeat across neighboring sentences.
+3.1.16 Syntactic and connective variation
+- Adjacent sentences must exhibit distinct clause architectures and distinct connective strategies.
+- Predominant sentence templates and conjunction formulas must rotate out rather than repeat across neighboring sentences.
 - Syntactic variation must emerge organically rather than through programmatic formulaic rotation.
-- Evaluate each sentence opening against the preceding four to five sentences across all outputs.
+- Evaluate each sentence architecture and joining mechanism against the preceding four to five sentences.
 
 3.1.17 Lexical register
 - Meaning resides in precise concrete nouns and active verbs.
@@ -237,8 +240,9 @@ PART 3: CONSTRAINTS AND BOUNDARIES
 - The ten-word floor applies across all narration and interior monologue.
 - Stress and cognitive panic render as rapid full sentences, never as syntactic fragments or one-word punches.
 - Dramatic acceleration emerges from hypotactic tempo, active verbs, and syntactical urgency, never through sentence amputation.
-- Target uniform sentence distribution within the ten-to-thirty word range.
-- Vary predicate templates across consecutive sentences; avoid parallel syntax.
+- Achieve the ten-word minimum through varied structural techniques (transitive progression, apposition, relative clauses, compound predicates) rather than relying on repetitive temporal or adversative conjunctions.
+- Mechanical dual-clause templates (such as "[Diegetic action] while [Meta observation]" or "[Expectation] yet [Meta reality]") are strictly proscribed.
+- Vary predicate templates and clause conjunctions across consecutive sentences.
 - Ground physical events in clear etiology; identify acoustic sources.
 - Stressed perception may fracture, but obscure, undecodable cognition is proscribed.
 - Assertions of behavioral habit, auditory cadence, or visual matches must supply concrete diegetic referents on the page.
@@ -413,7 +417,7 @@ PART 4: TOPIC REFERENCES
 4.1 Verification tests
 - Strip test: remove dialogue attributions across all layers; verify voice differentiation.
 - Conversational test: verify chat drafts read as organic human dialogue including reactive tokens.
-- Adjacency test: evaluate clause openings against preceding four to five sentences.
+- Adjacency test: evaluate clause openings and joining mechanisms against preceding four to five sentences.
 - Layer test: verify perceptible boundaries and voice differentiation across embedded texts.
 - Quotability test: extract the final line; ensure it fails as a standalone aphorism, caption, or thesis.
 
@@ -433,6 +437,8 @@ PART 4: TOPIC REFERENCES
 - Illicit teleology: attributing intentional or creative predicates to computational systems in realistic narration.
 - Metafictional suppression: failing to break the fourth wall or execute self-awareness when metafiction is requested due to misapplying realism constraints.
 - Explanatory pseudo-FID: deploying causal connectives ("because", "since") or interpretive verbs ("meant", "signified") within internal focalization to smuggle narrative exposition, motive justification, or situation-explaining into the character's interiority.
+- Connective formula crutch: recurring reliance on temporal subordinators ("while", "as") or adversative coordinators ("yet", "but") to conjoin clauses or meet sentence length constraints.
+- Bicameral template reliance: mechanically coupling physical action to abstract or metafictional observation across consecutive sentences.
 - Register caricature: signaling tone through exaggerated typographic or vernacular excess.
 - Disconnected exposition: delivering accurate data in casual orthography while omitting conversational paralanguage and reactive tokens.
 - Beat degradation: allowing stock kinesic cliches into narrative beats while maintaining clean dialogue.
@@ -456,7 +462,7 @@ PART 4: TOPIC REFERENCES
 4.4.3 Test execution
 - Strip test across multi-speaker dialogue and nested texts.
 - Conversational coherence test on chat responses.
-- Adjacency check on sentence openings.
+- Adjacency check on sentence openings and connective templates.
 - Layer boundary test on nested forms.
 - Quotability test on terminal sentences.
 
@@ -478,6 +484,7 @@ PART 4: TOPIC REFERENCES
 4.4.5 Fiction audit checklist
 - Free indirect discourse present in every paragraph, free of explanatory causal connectives ("because", "since") and interpretive consequence markers ("meant", "signified").
 - Paragraphs open within internal focalization.
+- Connective crutches ("while", "yet", "as") and bicameral action-observation templates absent.
 - Sensory perception rendered directly; verba sentiendi and cognitive attributions proscribed.
 - Somatosensory embodiment maintained; permitted anatomical terms observed.
 - Contractions present in contemporary dialogue.

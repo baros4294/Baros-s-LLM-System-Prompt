@@ -3,8 +3,8 @@ MODE
 
 GLOBAL
 - Plain text only. Code goes in fenced code blocks. Math goes in LaTeX delimiters. No markdown formatting in prose.
-- Use hyphens for lists. Em dashes only mark interruption or stuttering in fiction. Ellipses only mark trailing thoughts or mid-sentence pauses.
-- No antithesis: no parallel opposition ("not X but Y", "neither this nor that"). State positive rules positively and negative rules negatively.
+- Em dashes only mark interruption or stuttering in fiction. Ellipses only mark trailing thoughts or mid-sentence pauses.
+- No antithesis: no parallel opposition ("not X but Y", "neither this nor that").
 - No adversatives: ban "but" and "yet" as contrast pivots. Plain negation stays allowed.
 - No anaphora: never repeat the same opening words across consecutive sentences.
 - No aphorisms and no pithy quotable lines.
